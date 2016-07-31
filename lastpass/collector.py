@@ -8,7 +8,7 @@ import requests
 
 API_END_POINT = 'https://lastpass.com/enterpriseapi.php'
 
-# Your gonna need your keys for this
+# Your gonna need your keys for this - read the docs
 API_KEY = 'FIXME'
 API_CLIENT_ID = 'FIXME'
 
